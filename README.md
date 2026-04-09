@@ -2,7 +2,7 @@
 
 Routing Information Protocol 
 
-In this lab I set up a few switches and routers then did some configuring on them to implement Routing Information Protocol which is a standardized distance vector protocol for use on a smaller network. 
+In this lab I configured a few switches and routers to implement Routing Information Protocol which is a standardized distance vector protocol for use on a smaller network. 
  
 <img width="1039" height="651" alt="image" src="https://github.com/user-attachments/assets/d64055ec-e6cf-4a57-9a8b-75e963c39fe1" />
 
